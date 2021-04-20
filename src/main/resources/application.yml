@@ -1,0 +1,11 @@
+aws:
+  sqs:
+    accessKeyId: 
+    secretAccessKey: 
+
+cloud:
+  aws:
+    region:
+      static: us-east-2
+    stack:
+      auto: false
